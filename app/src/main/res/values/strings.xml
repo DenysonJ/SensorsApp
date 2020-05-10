@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="success">You got it!</string>
+    <string name="gps">GPS</string>
+</resources>
